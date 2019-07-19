@@ -1,0 +1,6 @@
+CEO:nt/attr:208
+CTO:nr/attr:208
+首席科学家:nr/attr:208
+职位:nt/attr:208
+新闻:nt/attr:208
+产品:nt/attr:208
